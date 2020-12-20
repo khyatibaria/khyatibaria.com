@@ -124,7 +124,13 @@ hr {
     padding-top: 5rem;
 
 }
-
+.pica {
+    height: 200px;
+    width: 400px;
+    display: block;
+    margin: auto;
+    padding-top: 1rem;
+}
 .shero .shero-img {
     max-width: 80%;
     width: 350px;
@@ -182,10 +188,6 @@ hr {
     text-decoration: none;
     color: #eee;
     display: inline-block;
-}
-
-.copyright {
-    color: #ccc;
 }
 
 small a {
